@@ -5,3 +5,6 @@ When opening the app, the loading screen appears and a few seconds later, the us
 Why was this app made?
 - I made this app to inform fellow students of mine or people of all ages on internet safety and basic information on what cybersecurity is.
 
+Why is it called Cybersafe?
+- The name is a combination of the words "Cybersecurity" and "Safe" so mashed together equals "Cybersafe" ! :D
+
