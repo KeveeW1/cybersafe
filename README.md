@@ -24,4 +24,4 @@ Symbols: In every submission I do, I like to include some symbolism :)
 - another is on the loading screen, there is an open lock to showcase how data is still out in the open and we are still waiting to be on the main page. I tried to illustrate how the user isn't yet on the main secure page, so there is an open lock to symbolize the open internet. unsecure browser vs. secure.
 
 Submitted Cybersafe into the GitHub Global Campus.
-Happy Birthday MLH!
+--Happy Birthday MLH!--
