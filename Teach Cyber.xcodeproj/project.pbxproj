@@ -17,6 +17,7 @@
 		22D3E8FC288D09E100200D43 /* Teach_CyberTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D3E8FB288D09E100200D43 /* Teach_CyberTests.swift */; };
 		22D3E906288D09E100200D43 /* Teach_CyberUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D3E905288D09E100200D43 /* Teach_CyberUITests.swift */; };
 		22D3E908288D09E100200D43 /* Teach_CyberUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D3E907288D09E100200D43 /* Teach_CyberUITestsLaunchTests.swift */; };
+		22D3E919288D4F4400200D43 /* passwordChecker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22D3E918288D4F4400200D43 /* passwordChecker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		22D3E901288D09E100200D43 /* Teach CyberUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Teach CyberUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		22D3E905288D09E100200D43 /* Teach_CyberUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teach_CyberUITests.swift; sourceTree = "<group>"; };
 		22D3E907288D09E100200D43 /* Teach_CyberUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Teach_CyberUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		22D3E918288D4F4400200D43 /* passwordChecker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = passwordChecker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				22D3E8E1288D09DD00200D43 /* AppDelegate.swift */,
 				22D3E8E3288D09DD00200D43 /* SceneDelegate.swift */,
 				22D3E8E5288D09DD00200D43 /* ViewController.swift */,
+				22D3E918288D4F4400200D43 /* passwordChecker.swift */,
 				22D3E8E7288D09DD00200D43 /* Main.storyboard */,
 				22D3E8ED288D09E000200D43 /* Assets.xcassets */,
 				22D3E8EF288D09E000200D43 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22D3E8E6288D09DD00200D43 /* ViewController.swift in Sources */,
+				22D3E919288D4F4400200D43 /* passwordChecker.swift in Sources */,
 				22D3E8EC288D09DD00200D43 /* Teach_Cyber.xcdatamodeld in Sources */,
 				22D3E8E2288D09DD00200D43 /* AppDelegate.swift in Sources */,
 				22D3E8E4288D09DD00200D43 /* SceneDelegate.swift in Sources */,
@@ -444,6 +448,7 @@
 				DEVELOPMENT_TEAM = 89DN93C6M3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Teach Cyber/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Cybersafe;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -454,7 +459,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kw.Teach-Cyber";
+				PRODUCT_BUNDLE_IDENTIFIER = kw.cybersafe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -472,6 +477,7 @@
 				DEVELOPMENT_TEAM = 89DN93C6M3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "Teach Cyber/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Cybersafe;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -482,7 +488,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "kw.Teach-Cyber";
+				PRODUCT_BUNDLE_IDENTIFIER = kw.cybersafe;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

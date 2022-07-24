@@ -1,12 +1,14 @@
 //
-//  ViewController.swift
+//  passwordChecker.swift
 //  Teach Cyber
 //
-//  Created by Keira Wong on 7/23/22.
+//  Created by Keira Wong on 7/24/22.
 //
+
+import Foundation
 import SwiftUI
 
-struct ViewController: View {
+struct passwordChecker: View {
     @State var password : String = ""
     @State var passwordStrength : Int = 0
     
@@ -53,8 +55,8 @@ struct ViewController: View {
     }
 }
 
-struct ViewController_Previews: PreviewProvider {
+struct passwordCheck_Previews: PreviewProvider {
     static var previews: some View {
-        ViewController()
+        passwordChecker()
     }
 }
