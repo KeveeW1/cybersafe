@@ -7,7 +7,7 @@ What to expect:
 When opening the app, the loading screen appears and a few seconds later, the user is lead to the home page or the main screen. 
 From there, there are 3 buttons made so far that are filled with information from cybersecurity to understanding what passwords are strong!
 
-What tools were used: Xcode, Swift, Google for finding facts and troublehshooting, and Canva for design of thumbnail
+What tools were used: Xcode, Swift, Google for finding facts and troubleshooting, and Canva for the thumbnail design.
 
 Why was this app made?
 - I made this app to inform fellow students of mine or people of all ages on internet safety and basic information on what cybersecurity is.
@@ -17,5 +17,7 @@ Why is it called Cybersafe?
 - The name is a combination of the words "Cybersecurity" and "Safe" so mashed together equals "Cybersafe" ! :D
 At first, I called the app "Teach Cyber" but I found it too basic and not a title that would be remembered. 
 
+Additional Info:
 Hours: 5+ hrs <- many breaks in between because this weekend busy!
+Submitted Cybersafe into the GitHub Global Campus.
 Happy Birthday MLH!
