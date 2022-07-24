@@ -1,4 +1,4 @@
-# teach-cyber
+# Cybersafe
 App made to educate people about cybersecurity and internet safety.
 When opening the app, the loading screen appears and a few seconds later, the user is lead to the home page or the main screen. 
 
